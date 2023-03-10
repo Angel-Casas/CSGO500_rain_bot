@@ -1,0 +1,28 @@
+{
+  "name": "csgo500-rain-bot",
+  "version": "1.0.0",
+  "description": "Automated telegram bot message each time it detects rain on csgo500",
+  "main": "fetch.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angel-Casas/CSGO500_rain_bot.git"
+  },
+  "keywords": [
+    "csgo500",
+    "telegram-bot"
+  ],
+  "author": "Ángel Casas Pescador",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angel-Casas/CSGO500_rain_bot/issues"
+  },
+  "homepage": "https://github.com/Angel-Casas/CSGO500_rain_bot#readme",
+  "devDependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "puppeteer": "^19.7.3"
+  }
+}
